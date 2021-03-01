@@ -1,5 +1,5 @@
 ### Hello there, I am Priya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-![](https://komarev.com/ghpvc/?username=Priya2410)<br>
+<br>
 🔭 I’m currently working on my app development , web development and problem solving skills. <br>
 🌱 I’m currently learning android app dev , linux kernel development.
  ### You can find me on :
