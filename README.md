@@ -1,6 +1,6 @@
-### Hello there, I am Priya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello world, I am Priya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 🔭 I’m currently working on my app development , web development and problem solving skills. <br>
-🌱 I’m currently learning android app dev , linux kernel development.
+🌱 I’m currently learning android app dev,flutter development , linux kernel development.
  ### You can find me on :
 <img src="https://neilpatel.com/wp-content/uploads/2017/05/LinkedIn.jpg" width="35px"> <a href="https://www.linkedin.com/in/priya-mohata-a02170196">  Priya Mohata's linkedln profile</a><br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" height="35px" width="35px"><a href="https://www.hackerrank.com/mohatapriya">  Priya Mohata's hackerrank profile</a><br>
