@@ -9,7 +9,8 @@
  ### You can find me on :
 [![Linkedin Badge](https://img.shields.io/badge/-priyamohata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/priya-mohata-a02170196/)
 <br>
-### Languages and tools used :<br>
+
+### :hammer_and_wrench: Languages and tools used <br> 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=Android)
@@ -24,7 +25,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 <br>
-### Github Statistics :
+### 	:chart_with_upwards_trend: Github Statistics :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priya2410&layout=compact&show_icons=true&theme=highcontrast)](https://github.com/Priya2410/github-readme-stats)     
 ![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priya2410&show_icons=true&theme=highcontrast)   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priya2410&theme=highcontrast)](https://git.io/streak-stats)
 <!--
