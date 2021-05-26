@@ -1,5 +1,6 @@
 
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="200px"/>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 ### I AM PRIYA MOHATA <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 🔭 I’m currently working on my app development , web development and problem solving skills. <br>
