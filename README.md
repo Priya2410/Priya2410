@@ -16,6 +16,9 @@
 ### Github Statistics :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priya2410&layout=compact&show_icons=true&theme=radical)](https://github.com/Priya2410/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priya2410&theme=highcontrast)](https://git.io/streak-stats)
+
+
   ![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priya2410&show_icons=true&theme=radical)
 <!--
 **Priya2410/Priya2410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
