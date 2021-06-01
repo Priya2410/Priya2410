@@ -28,15 +28,13 @@
 <br>
 ### 	:chart_with_upwards_trend: Github Statistics :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priya2410&layout=compact&show_icons=true&theme=highcontrast)](https://github.com/Priya2410/github-readme-stats)     
-<!-- ![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priya2410&show_icons=true&theme=highcontrast)   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priya2410&theme=highcontrast)](https://git.io/streak-stats) -->
-<!--
-**Priya2410/Priya2410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priya2410&show_icons=true&theme=highcontrast)
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my app development , web development and problem solving skills.
 - 📫 How to reach me: 
 <link href="
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
