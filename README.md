@@ -28,11 +28,14 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 <br>
 ### 	:chart_with_upwards_trend: Github Statistics :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priya2410&layout=compact&show_icons=true&theme=highcontrast)](https://github.com/Priya2410/github-readme-stats)     
 ![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priya2410&show_icons=true&theme=highcontrast)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priya2410&theme=highcontrast)](https://git.io/streak-stats)
+
+<!-- [![Priya's github activity graph](https://activity-graph.herokuapp.com/graph?username=Priya2410&theme=dracula)](https://github.com/Priya2410/github-readme-activity-graph) -->
 
 <!-- Here are some ideas to get you started:
 
