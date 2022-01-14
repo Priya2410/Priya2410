@@ -32,7 +32,7 @@
 <br>
 ### 	:chart_with_upwards_trend: Github Statistics :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priya2410&layout=compact&show_icons=true&theme=highcontrast)](https://github.com/Priya2410/github-readme-stats)     
-![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priya2410&show_icons=true&theme=highcontrast)
+![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priya2410&show_icons=true&theme=highcontrast)<br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priya2410&theme=highcontrast)](https://git.io/streak-stats)
 
 <!-- [![Priya's github activity graph](https://activity-graph.herokuapp.com/graph?username=Priya2410&theme=dracula)](https://github.com/Priya2410/github-readme-activity-graph) -->
