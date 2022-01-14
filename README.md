@@ -10,10 +10,10 @@
  ### You can find me on :
 [![Linkedin Badge](https://img.shields.io/badge/-priyamohata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/priya-mohata-a02170196/)
 <br>
-
+### Profile Views 
+![](https://komarev.com/ghpvc/?username=Priya2410&color=blueviolet)
 ### :hammer_and_wrench: Languages and tools used <br> 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=Android)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
@@ -25,10 +25,14 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 <br>
 ### 	:chart_with_upwards_trend: Github Statistics :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priya2410&layout=compact&show_icons=true&theme=highcontrast)](https://github.com/Priya2410/github-readme-stats)     
 ![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priya2410&show_icons=true&theme=highcontrast)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priya2410&theme=highcontrast)](https://git.io/streak-stats)
 
 <!-- Here are some ideas to get you started:
 
