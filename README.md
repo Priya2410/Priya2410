@@ -8,7 +8,7 @@
 🌱 I’m currently learning android app dev,flutter development,system design.
 
  ### You can find me on :
-[![Linkedin Badge](https://img.shields.io/badge/-priyamohata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/priya-mohata-a02170196/)
+[![Linkedin Badge](https://img.shields.io/badge/-priyamohata-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/priya-mohata-a02170196/)
 <br>
 ### Profile Views 
 ![](https://komarev.com/ghpvc/?username=Priya2410&color=blueviolet)
