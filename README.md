@@ -1,11 +1,12 @@
 
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="200px"/>
+<img src="https://rishavanand.github.io/static/images/greetings.gif" width="200" height="200" align="centre">
 
 
-###  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Priya Mohata 
+<!-- ###  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> --->
+👋 I am Priya Mohata <br>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-🔭 I’m currently working on my app development , web development and problem solving skills. <br>
-🌱 I’m currently learning android app dev,flutter development,system design.
+🔭 I’m currently working on my problem solving skills. <br>
+🌱 I’m currently learning spring boot , rest api's and problem solving.
 
  ### You can find me on :
 [![Linkedin Badge](https://img.shields.io/badge/-priyamohata-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/priya-mohata-a02170196/)
