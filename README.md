@@ -5,8 +5,8 @@
 <!-- ###  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> --->
 👋 I am Priya Mohata <br>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-🔭 I’m currently working on my problem solving skills. <br>
-🌱 I’m currently learning spring boot , rest api's and problem solving.
+🔭 I’m currently interning as a Technology Intern at NatWest Markets <br>
+🌱 I’m currently learning spring boot , rest api's and working on my problem solving skills .
 
  ### You can find me on :
 [![Linkedin Badge](https://img.shields.io/badge/-priyamohata-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/priya-mohata-a02170196/)
