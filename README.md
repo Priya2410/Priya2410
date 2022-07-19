@@ -9,7 +9,9 @@
 🌱 I’m currently learning spring boot , rest api's and working on my problem solving skills .
 
  ### You can find me on :
-[![Linkedin Badge](https://img.shields.io/badge/-priyamohata-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/priya-mohata-a02170196/)
+[![Linkedin Badge](https://img.shields.io/badge/-priyamohata-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/priya-mohata-a02170196/)<br>
+[![Mail Badge](https://img.shields.io/badge/-mohatapriya@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mohatapriya@gmail.com)<br>
+[![HackerRank Badge](https://img.shields.io/badge/-priyamohata-green?style=flat-square&logo=Hackerrank&logoColor=white)](https://www.hackerrank.com/mohatapriya)
 <br>
 ### Profile Views 
 ![](https://komarev.com/ghpvc/?username=Priya2410&color=blueviolet)
@@ -37,7 +39,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priya2410&theme=highcontrast)](https://git.io/streak-stats)
 
 <!-- [![Priya's github activity graph](https://activity-graph.herokuapp.com/graph?username=Priya2410&theme=dracula)](https://github.com/Priya2410/github-readme-activity-graph) -->
-
 <!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my app development , web development and problem solving skills.
@@ -46,3 +47,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
+
